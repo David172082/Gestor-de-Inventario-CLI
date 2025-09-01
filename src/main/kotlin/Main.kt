@@ -3,11 +3,11 @@ import Class.Empleado
 fun main() {
     // 2. Crear una lista de al menos 5 empleados
     val empleados = listOf(
-        Empleado("Ana", 25, 2500.0, "Ventas"),
-        Empleado("Luis", 35, 3200.0, "TI"),
-        Empleado("María", 40, 4000.0, "TI"),
-        Empleado("Pedro", 28, 2800.0, "Marketing"),
-        Empleado("Sofía", 33, 3500.0, "Ventas")
+        Empleado("Claudia", 25, 2500.0, "Ventas"),
+        Empleado("Marta", 35, 3200.0, "TI"),
+        Empleado("Mauricio", 40, 4000.0, "TI"),
+        Empleado("Ramiro", 28, 2800.0, "Marketing"),
+        Empleado("Fabio", 33, 3500.0, "Ventas")
     )
 
     println("=== Lista de empleados ===")
